@@ -1,6 +1,25 @@
-# labpy03
-## latihan 1 :
-### Algoritma latihan1 :
+# Labspy02 dan Labspy03
+## Labspy02
+### Mencari Angka Terbesar Dari 3 Angka
+berikut saya tampilkan flowchart dari program mencari angka terbesar
+![gambar4](screenshot/ss5.png)
+### Persiapan Variabel
+kita mulai langsung dengan menyiapkan 3 buah variabel, yaitu a, b, dan c.
+Ketiga variabel ini kita isi dari inputan user seperti berikut:
+![gambar1](screenshot/ss2.png)
+### Mencari Angka Terbesar Antara a, b, dan c
+Langkah selanjutnya adalah menulis logika untuk mencari angka terbesar, apakah itu a? b? atau c?
+Berikut ini kira-kira implementasi logikanya:
+![gambar2](screenshot/ss3.png)
+Sekarang coba kita testing, saya coba masukkan angka 2, 3, dan 4:
+![gambar3](screenshot/ss4.png)
+berikut saya tampilkan screenshot seluruh layar dari program
+![gambar6](screenshot/ss1.png)
+### sekian dan terima kasih ;)
+
+## labpy03
+### latihan 1 :
+#### Algoritma latihan1 :
 
 Menampilkan n bilangan acak yang lebih kecil dari 0,5, nilai n diisi 
 pada saat runtime.
@@ -17,16 +36,16 @@ pada saat runtime.
 
 6.Selesai
 
-### Syntax latihan 1 sebagai berikut :
+#### Syntax latihan 1 sebagai berikut :
 
 ![gambar1](screenshot/ss1.png)
 
-### Hasil out put latihan 1 sebagai berikut :
+#### Hasil out put latihan 1 sebagai berikut :
 
 ![gambar2](screenshot/ss2.png)
 
-## latihan 2 :
-### Algoritma latihan 2:
+### latihan 2 :
+#### Algoritma latihan 2:
 
 Membuat program untuk menampilkan bilangan terbesar dari n buah data 
 yang diinputkan.Masukkan angka 0 untuk berhenti
@@ -56,18 +75,18 @@ nilai terbesar diantara bilangan tersebut dalam perulangan.
 
 10.Selesai
 
-### Syntax latihan 2 sebagai berikut :
+#### Syntax latihan 2 sebagai berikut :
 
 ![gambar3](screenshot/ss3.png)
 
-### Hasil out put latihan 2 ketika di runtime sebagai berikut :
+#### Hasil out put latihan 2 ketika di runtime sebagai berikut :
 
 ![gambar4](screenshot/ss4.png)
 
 
-## program 1 :
+### program 1 :
 
-### ALGORITMA menghitung keuntungan selama 8 bulan berjalannya usaha.
+#### ALGORITMA menghitung keuntungan selama 8 bulan berjalannya usaha.
 
 1.Mulai
 
@@ -111,12 +130,12 @@ bulan 8, hasilnya adalah total keuntungan yang didapat.
 17.Selesai
 
 
-### Syntax program1 sebagai berikut :
+#### Syntax program1 sebagai berikut :
 
 ![gambar5](screenshot/ss5.png)
 
-### Hasil out put program1 ketika runtime adalah sebagai berikut :
+#### Hasil out put program1 ketika runtime adalah sebagai berikut :
 
 ![gambar6](screenshot/ss6.png)
 
-### sekian dan terima kasih :)
+#### sekian dan terima kasih :)
