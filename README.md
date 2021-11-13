@@ -2,19 +2,19 @@
 ## Labspy02
 ### Mencari Angka Terbesar Dari 3 Angka
 berikut saya tampilkan flowchart dari program mencari angka terbesar
-![gambar4](screenshotlabspy02/ss5.png)
+![gambar4](screenshotlabspy2/ss5.png)
 ### Persiapan Variabel
 kita mulai langsung dengan menyiapkan 3 buah variabel, yaitu a, b, dan c.
 Ketiga variabel ini kita isi dari inputan user seperti berikut:
-![gambar1](screenshotlabspy02/ss2.png)
+![gambar1](screenshotlabspy2/ss2.png)
 ### Mencari Angka Terbesar Antara a, b, dan c
 Langkah selanjutnya adalah menulis logika untuk mencari angka terbesar, apakah itu a? b? atau c?
 Berikut ini kira-kira implementasi logikanya:
-![gambar2](screenshotlabspy02/ss3.png)
+![gambar2](screenshotlabspy2/ss3.png)
 Sekarang coba kita testing, saya coba masukkan angka 2, 3, dan 4:
-![gambar3](screenshotlabspy02/ss4.png)
+![gambar3](screenshotlabspy2/ss4.png)
 berikut saya tampilkan screenshot seluruh layar dari program
-![gambar6](screenshotlabspy02/ss1.png)
+![gambar6](screenshotlabspy2/ss1.png)
 ### sekian dan terima kasih ;)
 
 ## labpy03
@@ -38,11 +38,11 @@ pada saat runtime.
 
 #### Syntax latihan 1 sebagai berikut :
 
-![gambar1](screenshotlabspy03/ss1.png)
+![gambar1](screenshootlabspy3/ss1.png)
 
 #### Hasil out put latihan 1 sebagai berikut :
 
-![gambar2](screenshotlabspy03/ss2.png)
+![gambar2](screenshootlabspy3/ss2.png)
 
 ### latihan 2 :
 #### Algoritma latihan 2:
@@ -77,11 +77,11 @@ nilai terbesar diantara bilangan tersebut dalam perulangan.
 
 #### Syntax latihan 2 sebagai berikut :
 
-![gambar3](screenshotlabspy03/ss3.png)
+![gambar3](screenshootlabspy3/ss3.png)
 
 #### Hasil out put latihan 2 ketika di runtime sebagai berikut :
 
-![gambar4](screenshotlabspy03/ss4.png)
+![gambar4](screenshootlabspy3/ss4.png)
 
 
 ### program 1 :
@@ -132,10 +132,10 @@ bulan 8, hasilnya adalah total keuntungan yang didapat.
 
 #### Syntax program1 sebagai berikut :
 
-![gambar5](screenshotlabspy03/ss5.png)
+![gambar5](screenshootlabspy3/ss5.png)
 
 #### Hasil out put program1 ketika runtime adalah sebagai berikut :
 
-![gambar6](screenshotlabspy03/ss6.png)
+![gambar6](screenshootlabspy3/ss6.png)
 
 #### sekian dan terima kasih :)
