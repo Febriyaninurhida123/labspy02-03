@@ -19,6 +19,8 @@ berikut saya tampilkan screenshot seluruh layar dari program
 
 ## labpy03
 ### latihan 1 :
+#### Flowchart latihan1
+![gambar1](screenshootlabspy3/ss9.png)
 #### Algoritma latihan1 :
 
 Menampilkan n bilangan acak yang lebih kecil dari 0,5, nilai n diisi 
@@ -45,6 +47,8 @@ pada saat runtime.
 ![gambar2](screenshootlabspy3/ss2.png)
 
 ### latihan 2 :
+#### Flowchart latihan 2
+![gambar1](screenshootlabspy3/ss10.png)
 #### Algoritma latihan 2:
 
 Membuat program untuk menampilkan bilangan terbesar dari n buah data 
@@ -85,6 +89,8 @@ nilai terbesar diantara bilangan tersebut dalam perulangan.
 
 
 ### program 1 :
+#### Flowchart pemrograman 1
+![gambar1](screenshootlabspy3/ss11.png)
 
 #### ALGORITMA menghitung keuntungan selama 8 bulan berjalannya usaha.
 
